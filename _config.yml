@@ -18,7 +18,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Anton Sarov
+title: "Anton Sarov's Blog"
 email: your-email@example.com
 name: Anton Sarov
 # >- # this means to ignore newlines until "baseurl:"
@@ -26,8 +26,13 @@ description: "Anton Sarov's blog about software and personal growth"
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://antonsarov.com"
 locale: "en"
+
+# Social
 twitter:
   username: "duxanton"
+og_image: "/assets/images/cjcCFe8y_400x400.jpeg"
+
+# Site author
 author:
   name: "Anton Sarov"
   bio: "Father, husband, software engineer"
