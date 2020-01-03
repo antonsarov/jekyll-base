@@ -22,7 +22,7 @@ title: Anton Sarov
 email: your-email@example.com
 name: Anton Sarov
 # >- # this means to ignore newlines until "baseurl:"
-description: "Anton Sarov's tech blog"
+description: "Anton Sarov's blog about software and personal growth"
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://antonsarov.com"
 locale: "en"
@@ -32,6 +32,7 @@ author:
   name: "Anton Sarov"
   bio: "Father, husband, software engineer"
   location : "Germany"
+  avatar: "/assets/images/cjcCFe8y_400x400.jpeg"
   links:
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
